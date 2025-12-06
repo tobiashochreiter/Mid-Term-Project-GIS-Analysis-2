@@ -10,7 +10,7 @@ Git Hub:
 - git stash (stashing own changes)
 - git pull
 - git stash pop (combine changes with own changes and check conflicts - then continue with new code)
-- git add
+- git add .
 - git commit -m "Message"
 - git push 
 - always push new changes after finishing working
