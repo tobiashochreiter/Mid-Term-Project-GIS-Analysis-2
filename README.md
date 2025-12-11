@@ -12,7 +12,7 @@ Git Hub:
 - git push 
 - always push new changes after finishing working
 
-  # Reproduction of Green Space Accessibility Analysis (Graz)
+# Reproduction of Green Space Accessibility Analysis (Graz)
 
 This project reproduces and adapts the methodology of a published GIS-based study on accessibility to public green spaces in Graz.
 
