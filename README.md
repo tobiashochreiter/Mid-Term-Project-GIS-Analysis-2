@@ -28,7 +28,7 @@ While the original paper investigates green-space accessibility in Craiova, Roma
 
 
 ## Installation
-Clone the repository:
+- Clone the repository:
 
 ```bash
 git clone https://github.com/tobiashochreiter/Mid-Term-Project-GIS-Analysis-2.git
