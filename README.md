@@ -34,7 +34,7 @@ While the original paper investigates green-space accessibility in Craiova, Roma
 git clone https://github.com/tobiashochreiter/Mid-Term-Project-GIS-Analysis-2.git
 cd Mid-Term-Project-GIS-Analysis-2
 
-- Tip
+
 ## Executing program
 - if needed, adapt data integration; otherwise no user input needed
 - run cell by cell or whole notebook for all results
